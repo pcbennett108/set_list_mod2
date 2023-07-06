@@ -1,6 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe 'the songs show page' do
+  
   it 'displays the song title' do
     artist = Artist.create!(name: 'The Big Bopper')
     song = artist.songs.create!(title: "Happy Days", length: 208, play_count: 103)
@@ -22,4 +23,6 @@ RSpec.describe 'the songs show page' do
     save_and_open_page
     expect(page).to have_content(artist.name)
   end
+
+
 end

@@ -253,27 +253,8 @@
           1,
           null
         ]
-      },
-      "/Users/paulbennett/turing/2_mod/homework/set_list/app/controllers/songs_controller.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null
-        ]
-      },
-      "/Users/paulbennett/turing/2_mod/homework/set_list/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1688592691
+    "timestamp": 1688606454
   }
 }
